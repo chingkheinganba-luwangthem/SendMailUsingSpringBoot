@@ -1,1 +1,1 @@
-# SendingMailUsingSpringBoot
+# SendingMailWithSpringBoot
