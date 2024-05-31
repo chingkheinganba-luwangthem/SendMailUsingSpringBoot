@@ -1,0 +1,7 @@
+spring.application.name=SpringMail
+spring.mail.host=smtp.gmail.com
+spring.mail.port=587
+spring.mail.username=type your mail
+spring.mail.password=create application password and paste number
+spring.mail.properties.mail.smtp.auth=true
+spring.mail.properties.mail.smtp.starttls.enable=true
